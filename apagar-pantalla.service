@@ -1,0 +1,10 @@
+[Unit]
+Description=Apaga la pantalla despues de iniciar
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/brillo_set.sh off
+
+[Install]
+WantedBy=multi-user.target
