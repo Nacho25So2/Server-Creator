@@ -98,6 +98,9 @@ Si usas una laptop lo mejor es desactivar la suspension.
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 ```
 
+> [!WARNING]
+> Aunque funcione estanto totalmente cerrada, es recomendable dejar la laptop abierta si se encuentra la CPU con mucha carga debido a que puede aumentar drasticamente la temperatura. Con mediciones tomadas con CPU al 100% en tapa abierta 85ºC, con tapa cerrada 103ºC.
+
 ### Apagar pantalla
 Es recomendable apagar la pantalla o reducir el brillo ya que baja el consumo unos 6W
 
