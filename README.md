@@ -98,6 +98,18 @@ Si usas una laptop lo mejor es desactivar la suspension.
 sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
 ```
 
+### Apagar pantalla
+Es recomendable apagar la pantalla o reducir el brillo ya que baja el consumo unos 6W
+
+```
+sudo wget -O /usr/local/bin/brillo_set.sh https://raw.githubusercontent.com/Nacho25So2/Server-Creator/refs/heads/desarollo/brillo_set.sh
+sudo chmod +x /usr/local/bin/brillo_set.sh
+sudo wget -O /etc/systemd/system/apagar-pantalla.service https://raw.githubusercontent.com/Nacho25So2/Server-Creator/refs/heads/desarollo/apagar-pantalla.service
+sudo systemctl enable apagar-pantalla.service
+sudo systemctl start apagar-pantalla.service
+sudo systemctl status apagar-pantalla.service
+```
+
 ### Instalar BTOP
 BTop es un monitor, este nos ayudará a ver bateria, uso de memoria y almacenamiento, procesos, temperaturas entre otros, es recomendable instalarlo para registrar temperaturas entre otros.
 ```
