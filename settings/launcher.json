@@ -1,0 +1,67 @@
+{
+	"settings": {
+		"allocatedMemory": 4186,
+		"gameResolution": {
+			"width": 854,
+			"height": 480,
+			"fullscreen": false
+		},
+		"language": "es_ES",
+		"afterLaunchAction": "HIDE",
+		"advancedMode": true,
+		"gameDirectory": "C:\\Users\\kifer\\AppData\\Roaming\\.minecraft",
+		"gameBranch": "master",
+		"discordRichPresence": {
+			"enabled": true,
+			"hideWhenIdle": true
+		},
+		"computerStartup": "CLOSED",
+		"defaultScreenshotUploadPrivacy": 2,
+		"incomingGiftPrivacy": 1,
+		"wrappedLeaderboardVisibility": 1,
+		"cosmeticOwnershipVisibility": 1,
+		"radio": {
+			"playingVisibility": 1
+		},
+		"allowFriendRequests": true,
+		"lastSeenVisibility": 1,
+		"exitToDock": false,
+		"gameProfile": "lunar-1.8",
+		"missionControl": {
+			"position": {
+				"x": 116,
+				"y": 104
+			},
+			"screen": 1288287589,
+			"afterLaunchAction": "DONT_SHOW"
+		},
+		"launcherResolution": {
+			"mission-control": {
+				"width": 1302,
+				"height": 840,
+				"maximized": false
+			},
+			"main": {
+				"width": 1360,
+				"height": 800,
+				"maximized": false
+			}
+		},
+		"hardwareAcceleration": true,
+		"enableAnimations": false,
+		"allowAnalyticsCollection": false,
+		"adsOptimization": false,
+		"explore": {
+			"type": "mod",
+			"provider": "modrinth"
+		}
+	},
+	"trackingIds": {
+		"ga4": ""
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.5.19-ow"
+		}
+	}
+}

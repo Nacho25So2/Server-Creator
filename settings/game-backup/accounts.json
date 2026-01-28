@@ -1,0 +1,23 @@
+{
+  "accounts": {
+    "b227fcc94f4a46b99b5411a0663bcccb": {
+      "accessToken": "eyJraWQiOiIwNDkxODEiLCJhbGciOiJSUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ1MzU2NDA0MjExMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNmZlODBiOTYtN2E2NC00MWM5LTkwZDMtZDk0ZjVkNDQwOTJiIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsibXNhbWlncmF0aW9uX3N0YWdlNCIsInR3b2ZhY3RvcmF1dGgiLCJtdWx0aXBsYXllciIsIm9yZGVyc18yMDIyIl0sInByb2ZpbGVzIjp7Im1jIjoiZTMzODA3YzUtZDI4OC00NWQ5LWE5ZmMtOTNmMTUzMmI2YmI4In0sInBsYXRmb3JtIjoiUENfTEFVTkNIRVIiLCJwZmQiOlt7InR5cGUiOiJtYyIsImlkIjoiZTMzODA3YzUtZDI4OC00NWQ5LWE5ZmMtOTNmMTUzMmI2YmI4IiwibmFtZSI6Ik5hY2hvMjVTbzIifV0sIm5iZiI6MTc2NzA2Mzg2NSwiZXhwIjoxNzY3MTUwMjY1LCJpYXQiOjE3NjcwNjM4NjUsImFpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0MDJiNTMyOCJ9.xDazvi3y-y__fr3UyygmPwQlG5gqQpgdchBpBvV7OxnnnCZgaHrL-hj_YHX0jJw4lsHGn3ppcXsq1ljkaTHdMp3F9ChE2lw2YHfhWwns39pZnbq06i6Rwbyd0IjUBr0eXrRBMZeKrqEhN7h6s3AFURo_g7caxRn_w8sKr1mRKPYO0F3VngQ4Ws5WWSVKpeZnuhNGIiSet-lEdjvfDb2-2bbHUz8MrcsPc5fhsS7nD-MzV4u-5_EQDacmVau6DQDlxSizgnSpkw2SrK_zHcyfOaWdXZ6nBc0Uon0zOsmh9hUspjj1poCrDdFpzu62VmaQehU3IkU-d8XeYCne0qdgyw",
+      "accessTokenExpiresAt": "2025-12-31T03:04:24.836Z",
+      "localId": "b227fcc94f4a46b99b5411a0663bcccb",
+      "refreshToken": "M.C533_BL2.0.U.-Cv6WQzOyiDqcG!Xe*Xd35XRBxF4dmunmxeZSEu3zlFxk*LAX*TT6pRzr01n22WG1mHfSho4wNxi5QvGum0cCHmwFIn3OVB2SIiD7uT5iKo4vZQzUNFRq4OUA3xkp87n8wLdhCGu42Kuc!2y8yhnW0VnCDjIU0Dik9HHQOpJ9siJv*p27F4pm6CPp4B0hQcf7DEN*MQJMRxAwb0noSaeH5sD2gylC!Ne0dwSz13HeqB2ObHimHIJxi!AmK0pP8ZYzDD0!2qp4x1bvl*365Zv2tFfRwFfDiaJ0Dew7bLwOOJ*i0SAFYjnbJ6EB3ZZkaHQLoPpVg2F6rpWOxjZ3fXp023A$",
+      "minecraftProfile": {
+        "id": "e33807c5d28845d9a9fc93f1532b6bb8",
+        "name": "Nacho25So2"
+      },
+      "remoteId": "2535453564042111",
+      "type": "Xbox",
+      "username": "Nacho25So2",
+      "eligibleForMigration": false,
+      "hasMultipleProfiles": false,
+      "legacy": false,
+      "persistent": true,
+      "userProperties": []
+    }
+  },
+  "activeAccountLocalId": "b227fcc94f4a46b99b5411a0663bcccb"
+}

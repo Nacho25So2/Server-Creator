@@ -245,6 +245,9 @@ Con sesion iniciada
 # Otros
 
 ## Activar audio sink de bluetooth
+
+
+
 ```
 sudo apt install \
 pipewire \
@@ -262,3 +265,48 @@ wpctl set-volume @DEFAULT_AUDIO_SINK@ 1.0
 ```
 > [!TIP]
 > Modificando el "1.0" cambias el volumen siendo 1 = 100%
+
+
+## Herramientas usadas
+[SystemD Creator](https://mysystemd.talos.sh)
+
+
+wget https://github.com/patroclos/PAmix/archive/refs/tags/2.0.tar.gz -O PAmix_2-0.tar.gz
+tar -xzvf PAmix_2-0.tar.gz
+sudo apt install cmake pkg-config libncursesw5-dev pulseaudio pulseaudio-utils libpulse-dev bluez bluez-tools libspa-0.2-bluetooth 
+
+pamix
+
+| Action                     | Key |
+|----------------------------|-----|
+| Playback tab               | F1  |
+| Recording Tab              | F2  |
+| Output Devices             | F3  |
+| Input Devices              | F4  |
+| Cards                      | F5  |
+| Set volume to percentage   | 0-9 |
+| Decrease Volume            | h   |
+| Select Next                | j   |
+| Select Previous            | k   |
+| Increase Volume            | l   |
+| (Un)Lock Channels          | c   |
+| (Un)Mute                   | m   |
+| Next/Previous device/port  | s/S |
+| Quit                       | q   |
+
+sudo nano /etc/pulse/default.pa
+
+
+######
+sudo apt update
+sudo apt install pipewire pipewire-audio pipewire-pulse wireplumber
+
+systemctl --user --now enable pipewire pipewire-pulse wireplumber
+
+Parametros para juegos en steam:
+
+CS: 1.6
+-noforcemparams -noforcemaccel - nofbo -freq 144 -nojoy -full -w 800 -h 600 -noborder
+
+CS 2
+-nojoy -novid -high -threads 11 +violence_hblood 0 +cl_forcepreload 1 +fps_max 0 -console -refresh 144 +exec autoexec.cfg

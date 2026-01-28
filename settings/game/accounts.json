@@ -1,0 +1,22 @@
+{
+  "activeAccountLocalId": "b227fcc94f4a46b99b5411a0663bcccb",
+  "accounts": {
+    "b227fcc94f4a46b99b5411a0663bcccb": {
+      "accessToken": "eyJraWQiOiIwNDkxODEiLCJhbGciOiJSUzI1NiJ9.eyJ4dWlkIjoiMjUzNTQ1MzU2NDA0MjExMSIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNmZlODBiOTYtN2E2NC00MWM5LTkwZDMtZDk0ZjVkNDQwOTJiIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsib3JkZXJzXzIwMjIiLCJtdWx0aXBsYXllciIsInR3b2ZhY3RvcmF1dGgiLCJtc2FtaWdyYXRpb25fc3RhZ2U0Il0sInByb2ZpbGVzIjp7Im1jIjoiZTMzODA3YzUtZDI4OC00NWQ5LWE5ZmMtOTNmMTUzMmI2YmI4In0sInBsYXRmb3JtIjoiUENfTEFVTkNIRVIiLCJwZmQiOlt7InR5cGUiOiJtYyIsImlkIjoiZTMzODA3YzUtZDI4OC00NWQ5LWE5ZmMtOTNmMTUzMmI2YmI4IiwibmFtZSI6Ik5hY2hvMjVTbzIifV0sIm5iZiI6MTc2OTU3MDQ2NiwiZXhwIjoxNzY5NjU2ODY2LCJpYXQiOjE3Njk1NzA0NjYsImFpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0MDJiNTMyOCJ9.hH3QLKOrxZAVQ67R4YS3A-uFxVkVk9uAPbs0cu18_LoNUISDSY9LQcAjD9QIPudzHY5Zs4QIlYzEr07nCGJ6PpYCO8XxU7T9u3RFW3H5AkYk3AxpxazIVXnfn5AErGz8619c1CIvz297thc6jB5eceor23rBpatqpxRHG6Y4z_WYxo4asnwDgokCrzgeA466D-K33Of1NjRm4vyaF-4kmsL1QWp-9rYNFXW8cjeqJobxkxqmfHg68o0sj5txCXzDwpeqKkgfnHQ8ekEe7kvUeKO7f3i27XnUi-MimBjlJSQIy9eqH8-HsHNc2vlX7eV-n4SOSED5P6u1fZDOsEBp_Q",
+      "accessTokenExpiresAt": "2026-01-29T03:21:05.828Z",
+      "eligibleForMigration": false,
+      "hasMultipleProfiles": false,
+      "legacy": false,
+      "persistent": true,
+      "localId": "b227fcc94f4a46b99b5411a0663bcccb",
+      "refreshToken": "M.C533_BAY.0.U.-CiMmxo81JspAhSgq1EdL4!ReDnJ69h1OthUkqd6Nj63c4t0HyM54i6zOWmrctkWO9RA9!i!0Sd5BjCqInouxfotGU23o59F*1t9b42EEHMDDNeI4bg1d18hLb9YNBr7m8Kzh1XifCrxu4zz66pCUYQeaKEchVAxYmamimrKQW*qX1iV5M8dPPkn8yvuNN41keD8Aa6zCHSwOrhZCN93wa!E5GImeAXrTMyFVp1l6PvNFkb1!moepNFHaw9GcI9wmh10h2KxqSwxvKd928JnQi25Ne5ddV8cKebJbYnNzg72Q8R7151xNbiKX8uOzScFs9R1rFCfPL5jZ97SkK19iqAM$",
+      "minecraftProfile": {
+        "id": "e33807c5d28845d9a9fc93f1532b6bb8",
+        "name": "Nacho25So2"
+      },
+      "remoteId": "2535453564042111",
+      "type": "Xbox",
+      "username": "Nacho25So2"
+    }
+  }
+}
