@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Script para controlar brillo de pantalla
-# Guardar como control_brillo.sh y ejecutar con permisos
 
 # Verificar si el script se ejecuta como root
 if [ "$EUID" -ne 0 ]; then
